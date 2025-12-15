@@ -25,7 +25,7 @@
   <table align="center" style="border: none; background-color: transparent;">
     <tr>
       <td align="center" style="padding: 15px;">
-        <img src="marie.gif" width="130" style="border-radius: 10px; border: 2px solid #2CEEF0; box-shadow: 5px 5px 0px #001433;" alt="Marie P4G">
+        <img src="https://github.com/Rainyday404/Rainyday404/blob/main/marie.gif?raw=true" width="130" style="border-radius: 10px; border: 2px solid #2CEEF0; box-shadow: 5px 5px 0px #001433;" alt="Marie P4G">
       </td>
       <td align="left" width="450" style="padding: 15px;">
         <p style="font-family: monospace; color: #a2d2ff; font-style: italic; background-color: #060e1a; padding: 15px; border-left: 4px solid #2CEEF0; border-radius: 5px;">
@@ -49,21 +49,21 @@
   <tr>
     <td align="center" width="220" style="background-color: #0d1117; border-radius: 10px; border: 1px solid #30363d;">
       <br>
-      <img src="https://api.iconify.design/ph:game-controller-fill.svg?color=%232CEEF0&width=60" alt="Mission Icon"><br><br>
+      <img src="https://api.iconify.design/ri:code-s-slash-fill.svg?color=%232CEEF0&width=60" alt="Mission Icon"><br><br>
       <b style="color: #2CEEF0;">MISSION</b><br>
       <font size="2" color="#8b949e">Game Modding & <br>Indo Subtitles</font>
       <br><br>
     </td>
     <td align="center" width="220" style="background-color: #0d1117; border-radius: 10px; border: 1px solid #30363d;">
       <br>
-      <img src="https://api.iconify.design/ph:users-three-fill.svg?color=%232CEEF0&width=60" alt="Social Icon"><br><br>
+      <img src="https://api.iconify.design/ri:group-fill.svg?color=%232CEEF0&width=60" alt="Social Icon"><br><br>
       <b style="color: #2CEEF0;">SOCIAL LINK</b><br>
       <font size="2" color="#8b949e">Persona Series & <br>Visual Novels</font>
       <br><br>
     </td>
     <td align="center" width="220" style="background-color: #0d1117; border-radius: 10px; border: 1px solid #30363d;">
       <br>
-      <img src="https://api.iconify.design/ph:cloud-rain-fill.svg?color=%232CEEF0&width=60" alt="Condition Icon"><br><br>
+      <img src="https://api.iconify.design/ri:thunderstorms-fill.svg?color=%232CEEF0&width=60" alt="Condition Icon"><br><br>
       <b style="color: #2CEEF0;">CONDITION</b><br>
       <font size="2" color="#8b949e">Melancholic & <br>Coding</font>
       <br><br>
@@ -81,4 +81,15 @@
 <br>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Rainyday404&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117" height="15
+  <img src="https://github-readme-stats.vercel.app/api?username=Rainyday404&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117" height="150" alt="stats graph" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rainyday404&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117" height="150" alt="languages graph" />
+</div>
+
+<br>
+
+<div align="center">
+  <p style="color: #2CEEF0; letter-spacing: 5px; font-size: 12px; font-weight: bold;">MEMENTO MORI</p>
+  <img src="https://github.com/Rainyday404/Rainyday404/blob/main/makoto%20yuki.gif?raw=true" width="100%" style="border-radius: 10px; border: 1px solid #30363d;" alt="Makoto Yuki Footer">
+  <br>
+  <sub><i>Last updated: 2025</i></sub>
+</div>
