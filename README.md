@@ -10,7 +10,7 @@
 
   <br><br>
 
-  <a href="https://discord.com">
+  <a href="https://discord.gg/r2GqUQ6SzB">
     <img src="https://img.shields.io/badge/COMMUNITY-ZHIENALLY-001433?style=for-the-badge&logo=discord&logoColor=2CEEF0" alt="Discord">
   </a>
   <a href="https://www.youtube.com/@SilviaValleria?sub_confirmation=1">
