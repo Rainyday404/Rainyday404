@@ -1,54 +1,72 @@
 <div align="center">
+
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&pause=1000&color=A9A9A9&center=true&vCenter=true&width=435&lines=Hi%2C+I'm+Rain.;System.out.println(%22Hello+World%22)%3B;Welcome+to+my+profile." alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=28&pause=1000&color=2CEEF0&center=true&vCenter=true&width=500&lines=System%3A+Velvet+Room+Access...;Guest%3A+Rain...;Arcana%3A+The+Universe.;Welcome+to+my+Profile." alt="Typing SVG" />
   </a>
 
   <br>
-  
-  <img src="https://github.com/Rainyday404.png" width="160" height="160" style="border-radius: 50%; border: 4px solid #303030;" alt="Rain Avatar">
+
+  <img src="https://github.com/Rainyday404.png" width="160" height="160" style="border-radius: 50%; border: 4px solid #2CEEF0; box-shadow: 0 0 20px #2CEEF0;" alt="Rain Avatar">
 
   <br><br>
 
   <a href="https://discord.com">
-    <img src="https://img.shields.io/badge/Discord-ZHIENALLY-2c2f33?style=for-the-badge&logo=discord&logoColor=white" alt="Discord">
+    <img src="https://img.shields.io/badge/COMMUNITY-ZHIENALLY-001433?style=for-the-badge&logo=discord&logoColor=2CEEF0" alt="Discord">
   </a>
-  <a href="#">
-    <img src="https://img.shields.io/badge/Oshi-Silvia%20Valleria-800020?style=for-the-badge&logo=heart&logoColor=white" alt="Oshi">
+  <a href="https://www.youtube.com/@SilviaValleria?sub_confirmation=1">
+    <img src="https://img.shields.io/badge/OSHI-Silvia%20Valleria-001433?style=for-the-badge&logo=heart&logoColor=D40E15" alt="Oshi">
   </a>
-  <a href="https://www.youtube.com/@SilviaValleria">
-    <img src="https://img.shields.io/badge/YouTube-Subscribe-D40E15?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube Oshi">
+  <a href="https://www.youtube.com/@SilviaValleria?sub_confirmation=1">
+    <img src="https://img.shields.io/badge/MEDIA-YouTube-001433?style=for-the-badge&logo=youtube&logoColor=red" alt="YouTube">
   </a>
 
   <br><br>
 
-  <p align="center" style="font-style: italic; color: #8b949e;">
-    "I am a lifelong hopeless romantic who now sees 'Love' as pure foolishness.<br>
-    I have no hope of changing this."
-  </p>
+  <table align="center" style="border: none; background-color: transparent;">
+    <tr>
+      <td align="center" style="padding: 15px;">
+        <img src="marie.gif" width="130" style="border-radius: 10px; border: 2px solid #2CEEF0; box-shadow: 5px 5px 0px #001433;" alt="Marie P4G">
+      </td>
+      <td align="left" width="450" style="padding: 15px;">
+        <p style="font-family: monospace; color: #a2d2ff; font-style: italic; background-color: #060e1a; padding: 15px; border-left: 4px solid #2CEEF0; border-radius: 5px;">
+          <b style="color: #2CEEF0;">Rain's Poem (feat. Marie):</b><br><br>
+          "I am a lifelong hopeless romantic who now sees 'Love' as pure foolishness.<br>
+          I have no hope of changing this."
+        </p>
+      </td>
+    </tr>
+  </table>
 
 </div>
 
-<hr style="border-color: #303030;">
+<br>
 
 <div align="center">
-  <h3>⚡ Current Status</h3>
+  <h2 style="color: #2CEEF0; letter-spacing: 4px; background-color: #001433; display: inline-block; padding: 5px 15px; border-radius: 5px;">▲ STATUS MENU ▲</h2>
 </div>
 
-<table align="center" style="border-collapse: collapse; border: none;">
+<table align="center" style="border: none; border-spacing: 15px;">
   <tr>
-    <td align="center" width="50%" style="border: none;">
-      <b>🔭 Focus</b><br>
-      Game Modding & Patching<br>(Indonesian Subtitles)
+    <td align="center" width="220" style="background-color: #0d1117; border-radius: 10px; border: 1px solid #30363d;">
+      <br>
+      <img src="https://img.icons8.com/nolan/64/controller.png" width="50"><br><br>
+      <b style="color: #2CEEF0;">MISSION</b><br>
+      <font size="2" color="#8b949e">Game Modding & <br>Indo Subtitles</font>
+      <br><br>
     </td>
-    <td align="center" width="50%" style="border: none;">
-      <b>🎮 Enthusiast</b><br>
-      Persona Series & Visual Novels
+    <td align="center" width="220" style="background-color: #0d1117; border-radius: 10px; border: 1px solid #30363d;">
+      <br>
+      <img src="https://img.icons8.com/nolan/64/handshake.png" width="50"><br><br>
+      <b style="color: #2CEEF0;">SOCIAL LINK</b><br>
+      <font size="2" color="#8b949e">Persona Series & <br>Visual Novels</font>
+      <br><br>
     </td>
-  </tr>
-  <tr>
-    <td align="center" colspan="2" style="border: none;">
-      <br><b>🥀 Mood</b><br>
-      <i>Dark, Melancholic, & Coding</i>
+    <td align="center" width="220" style="background-color: #0d1117; border-radius: 10px; border: 1px solid #30363d;">
+      <br>
+      <img src="https://img.icons8.com/nolan/64/rain.png" width="50"><br><br>
+      <b style="color: #2CEEF0;">CONDITION</b><br>
+      <font size="2" color="#8b949e">Melancholic & <br>Coding</font>
+      <br><br>
     </td>
   </tr>
 </table>
@@ -56,24 +74,22 @@
 <br>
 
 <div align="center">
-  <h3>💻 Tech Stack & Tools</h3>
-  <img src="https://img.shields.io/badge/Kotlin-0095D5?style=flat-square&logo=kotlin&logoColor=white" alt="Kotlin" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JS" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git" />
+  <h3 style="color: #2CEEF0;">// ARSENAL</h3>
+  <img src="https://skillicons.dev/icons?i=kotlin,js,py,git,nodejs,vscode&theme=dark" alt="Skills" />
 </div>
 
 <br>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Rainyday404&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=c9d1d9&icon_color=8b949e" height="150" alt="stats graph" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rainyday404&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=c9d1d9" height="150" alt="languages graph" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Rainyday404&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117" height="150" alt="stats graph" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rainyday404&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117" height="150" alt="languages graph" />
 </div>
 
 <br>
 
 <div align="center">
-  <img src="makoto.gif" width="100%" style="border-radius: 10px;" alt="Makoto Yuki Footer">
+  <p style="color: #2CEEF0; letter-spacing: 5px; font-size: 12px; font-weight: bold;">MEMENTO MORI</p>
+  <img src="makoto%20yuki.gif" width="100%" style="border-radius: 10px; border: 1px solid #30363d;" alt="Makoto Yuki Footer">
   <br>
   <sub><i>Last updated: 2025</i></sub>
 </div>
