@@ -49,21 +49,21 @@
   <tr>
     <td align="center" width="220" style="background-color: #0d1117; border-radius: 10px; border: 1px solid #30363d;">
       <br>
-      <img src="https://img.icons8.com/nolan/64/controller.png" width="50"><br><br>
+      <img src="https://api.iconify.design/ph:game-controller-fill.svg?color=%232CEEF0&width=60" alt="Mission Icon"><br><br>
       <b style="color: #2CEEF0;">MISSION</b><br>
       <font size="2" color="#8b949e">Game Modding & <br>Indo Subtitles</font>
       <br><br>
     </td>
     <td align="center" width="220" style="background-color: #0d1117; border-radius: 10px; border: 1px solid #30363d;">
       <br>
-      <img src="https://img.icons8.com/nolan/64/handshake.png" width="50"><br><br>
+      <img src="https://api.iconify.design/ph:users-three-fill.svg?color=%232CEEF0&width=60" alt="Social Icon"><br><br>
       <b style="color: #2CEEF0;">SOCIAL LINK</b><br>
       <font size="2" color="#8b949e">Persona Series & <br>Visual Novels</font>
       <br><br>
     </td>
     <td align="center" width="220" style="background-color: #0d1117; border-radius: 10px; border: 1px solid #30363d;">
       <br>
-      <img src="https://img.icons8.com/nolan/64/rain.png" width="50"><br><br>
+      <img src="https://api.iconify.design/ph:cloud-rain-fill.svg?color=%232CEEF0&width=60" alt="Condition Icon"><br><br>
       <b style="color: #2CEEF0;">CONDITION</b><br>
       <font size="2" color="#8b949e">Melancholic & <br>Coding</font>
       <br><br>
@@ -81,15 +81,4 @@
 <br>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Rainyday404&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117" height="150" alt="stats graph" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rainyday404&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117" height="150" alt="languages graph" />
-</div>
-
-<br>
-
-<div align="center">
-  <p style="color: #2CEEF0; letter-spacing: 5px; font-size: 12px; font-weight: bold;">MEMENTO MORI</p>
-  <img src="makoto%20yuki.gif" width="100%" style="border-radius: 10px; border: 1px solid #30363d;" alt="Makoto Yuki Footer">
-  <br>
-  <sub><i>Last updated: 2025</i></sub>
-</div>
+  <img src="https://github-readme-stats.vercel.app/api?username=Rainyday404&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117" height="15
