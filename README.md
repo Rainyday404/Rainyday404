@@ -1,95 +1,124 @@
 <div align="center">
 
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=28&pause=1000&color=2CEEF0&center=true&vCenter=true&width=500&lines=System%3A+Velvet+Room+Access...;Guest%3A+Rain...;Arcana%3A+The+Universe.;Welcome+to+my+Profile." alt="Typing SVG" />
-  </a>
+<a href="https://git.io/typing-svg">
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=2CEEF0&center=true&vCenter=true&width=500&lines=System%3A+Loading+User+Data...;User%3A+Rain+(Hujan)...;Arcana%3A+The+Universe.;Status%3A+Breaking+The+Fourth+Wall." alt="Typing SVG" />
+</a>
 
-  <br>
+<br><br>
 
-  <img src="https://github.com/Rainyday404.png" width="160" height="160" style="border-radius: 50%; border: 4px solid #2CEEF0; box-shadow: 0 0 20px #2CEEF0;" alt="Rain Avatar">
-
-  <br><br>
-
-  <a href="https://discord.gg/r2GqUQ6SzB">
-    <img src="https://img.shields.io/badge/COMMUNITY-ZHIENALLY-001433?style=for-the-badge&logo=discord&logoColor=2CEEF0" alt="Discord">
-  </a>
-  <a href="https://www.youtube.com/@SilviaValleria?sub_confirmation=1">
-    <img src="https://img.shields.io/badge/OSHI-Silvia%20Valleria-001433?style=for-the-badge&logo=heart&logoColor=D40E15" alt="Oshi">
-  </a>
-  <a href="https://www.youtube.com/@SilviaValleria?sub_confirmation=1">
-    <img src="https://img.shields.io/badge/MEDIA-YouTube-001433?style=for-the-badge&logo=youtube&logoColor=red" alt="YouTube">
-  </a>
-
-  <br><br>
-
-  <table align="center" style="border: none; background-color: transparent;">
-    <tr>
-      <td align="center" style="padding: 15px;">
-        <img src="https://github.com/Rainyday404/Rainyday404/blob/main/marie.gif?raw=true" width="130" style="border-radius: 10px; border: 2px solid #2CEEF0; box-shadow: 5px 5px 0px #001433;" alt="Marie P4G">
-      </td>
-      <td align="left" width="450" style="padding: 15px;">
-        <p style="font-family: monospace; color: #a2d2ff; font-style: italic; background-color: #060e1a; padding: 15px; border-left: 4px solid #2CEEF0; border-radius: 5px;">
-          <b style="color: #2CEEF0;">Rain's Poem (feat. Marie):</b><br><br>
-          "I am a lifelong hopeless romantic who now sees 'Love' as pure foolishness.<br>
-          I have no hope of changing this."
-        </p>
-      </td>
-    </tr>
-  </table>
+<table align="center" style="border: none; background: transparent;">
+<tr>
+<td align="center" style="padding-right: 20px;">
+<img src="https://github.com/Rainyday404.png" width="140" height="140" style="border-radius: 50%; border: 3px solid #2CEEF0; box-shadow: 0 0 25px rgba(44, 238, 240, 0.4);" alt="Rain Avatar">
+<br><br>
+<a href="https://discord.gg/r2GqUQ6SzB"><img src="https://img.shields.io/badge/Discord-ZHIENALLY-001433?style=flat-square&logo=discord&logoColor=2CEEF0" alt="Discord"></a>
+<br>
+<a href="https://www.youtube.com/@SilviaValleria?sub_confirmation=1"><img src="https://img.shields.io/badge/Oshi-Silvia%20Valleria-001433?style=flat-square&logo=heart&logoColor=D40E15" alt="Oshi"></a>
+</td>
+<td width="450">
+<div style="display: flex; align-items: center; background-color: #060e1a; padding: 10px; border: 1px solid #30363d; border-radius: 10px;">
+<img src="https://github.com/Rainyday404/Rainyday404/blob/main/marie.gif?raw=true" width="110" height="110" style="border-radius: 8px; border: 2px solid #2CEEF0; margin-right: 15px; object-fit: cover;">
+<div style="color: #a2d2ff; font-family: monospace; font-size: 13px; line-height: 1.4; text-align: left;">
+<b style="color: #2CEEF0; background-color: rgba(44, 238, 240, 0.1); padding: 2px 5px; border-radius: 4px;">Rain's Poem (feat. Marie):</b><br><br>
+"𝙸 𝚊𝚖 𝚊 𝚕𝚒𝚏𝚎𝚕𝚘𝚗𝚐 𝚑𝚘𝚙𝚎𝚕𝚎𝚜𝚜 𝚛𝚘𝚖𝚊𝚗𝚝𝚒𝚌 𝚠𝚑𝚘 𝚗𝚘𝚠 𝚜𝚎𝚎𝚜 '𝙻𝚘𝚟𝚎' 𝚊𝚜 𝚙𝚞𝚛𝚎 𝚏𝚘𝚘𝚕𝚒𝚜𝚑𝚗𝚎𝚜𝚜.<br>
+<i>𝙸 𝚑𝚊𝚟𝚎 𝚗𝚘 𝚑𝚘𝚙𝚎 𝚘𝚏 𝚌𝚑𝚊𝚗𝚐𝚒𝚗𝚐 𝚝𝚑𝚒𝚜.</i>"
+</div>
+</div>
+</td>
+</tr>
+</table>
 
 </div>
 
 <br>
 
 <div align="center">
-  <h2 style="color: #2CEEF0; letter-spacing: 4px; background-color: #001433; display: inline-block; padding: 5px 15px; border-radius: 5px;">▲ STATUS MENU ▲</h2>
+<img src="https://media.tenor.com/ExGsCK3Qv8EAAAAC/blue-line-divider.gif" width="90%" height="4">
+</div>
+
+<br>
+
+<div align="center">
+<h3 style="color: #2CEEF0; background: #001433; display: inline-block; padding: 6px 20px; border: 1px solid #2CEEF0; border-radius: 4px; font-family: monospace; letter-spacing: 2px;">▲ STATUS PARAMETERS ▲</h3>
 </div>
 
 <table align="center" style="border: none; border-spacing: 15px;">
-  <tr>
-    <td align="center" width="220" style="background-color: #0d1117; border-radius: 10px; border: 1px solid #30363d;">
-      <br>
-      <img src="https://api.iconify.design/ri:code-s-slash-fill.svg?color=%232CEEF0&width=60" alt="Mission Icon"><br><br>
-      <b style="color: #2CEEF0;">MISSION</b><br>
-      <font size="2" color="#8b949e">Game Modding & <br>Indo Subtitles</font>
-      <br><br>
-    </td>
-    <td align="center" width="220" style="background-color: #0d1117; border-radius: 10px; border: 1px solid #30363d;">
-      <br>
-      <img src="https://api.iconify.design/ri:group-fill.svg?color=%232CEEF0&width=60" alt="Social Icon"><br><br>
-      <b style="color: #2CEEF0;">SOCIAL LINK</b><br>
-      <font size="2" color="#8b949e">Persona Series & <br>Visual Novels</font>
-      <br><br>
-    </td>
-    <td align="center" width="220" style="background-color: #0d1117; border-radius: 10px; border: 1px solid #30363d;">
-      <br>
-      <img src="https://api.iconify.design/ri:thunderstorms-fill.svg?color=%232CEEF0&width=60" alt="Condition Icon"><br><br>
-      <b style="color: #2CEEF0;">CONDITION</b><br>
-      <font size="2" color="#8b949e">Melancholic & <br>Coding</font>
-      <br><br>
-    </td>
-  </tr>
+<tr>
+<td align="center" width="200" style="background-color: #0d1117; border: 1px solid #2CEEF0; border-radius: 8px;">
+<br>
+<img src="https://api.iconify.design/ri:code-s-slash-fill.svg?color=%232CEEF0&width=50"><br><br>
+<b style="color: #ffffff;">MISSION</b><br>
+<span style="font-size: 12px; color: #8b949e;">Game Modding<br>& Indo Subtitles</span>
+<br><br>
+</td>
+<td align="center" width="200" style="background-color: #0d1117; border: 1px solid #2CEEF0; border-radius: 8px;">
+<br>
+<img src="https://api.iconify.design/ri:group-fill.svg?color=%232CEEF0&width=50"><br><br>
+<b style="color: #ffffff;">SOCIAL LINK</b><br>
+<span style="font-size: 12px; color: #8b949e;">Persona Series<br>& Visual Novels</span>
+<br><br>
+</td>
+<td align="center" width="200" style="background-color: #0d1117; border: 1px solid #2CEEF0; border-radius: 8px;">
+<br>
+<img src="https://api.iconify.design/ri:thunderstorms-fill.svg?color=%232CEEF0&width=50"><br><br>
+<b style="color: #ffffff;">CONDITION</b><br>
+<span style="font-size: 12px; color: #8b949e;">Melancholic<br>& Coding</span>
+<br><br>
+</td>
+</tr>
 </table>
 
 <br>
 
 <div align="center">
-  <h3 style="color: #2CEEF0;">// ARSENAL</h3>
-  <img src="https://skillicons.dev/icons?i=kotlin,js,py,git,nodejs,vscode&theme=dark" alt="Skills" />
+<h3 style="color: #2CEEF0; font-family: monospace; letter-spacing: 2px;">🎧 S.E.E.S. RADIO</h3>
+<div style="background-color: #060e1a; padding: 15px; border: 2px solid #2CEEF0; border-radius: 4px; box-shadow: 5px 5px 0px #001433; max-width: 480px; margin: auto;">
+<table align="center" style="border: none; background: transparent; width: 100%;">
+<tr>
+<td width="90">
+<img src="https://github.com/Rainyday404/Rainyday404/blob/main/cover.jpg?raw=true" width="80" height="80" style="border-radius: 0px; border: 2px solid #2CEEF0; object-fit: cover;">
+</td>
+<td style="font-family: monospace; color: #a2d2ff; padding-left: 15px; vertical-align: middle;">
+<b style="color: #2CEEF0; font-size: 12px; letter-spacing: 1px;">▶ NOW PLAYING</b><br>
+<span style="color: #fff; font-size: 17px; font-weight: bold;">𝙸𝚝'𝚜 𝙶𝚘𝚒𝚗𝚐 𝙳𝚘𝚠𝚗 𝙽𝚘𝚠</span><br>
+<span style="color: #8b949e; font-size: 11px;">Pᴇʀsᴏɴᴀ 3 Rᴇʟᴏᴀᴅ OST</span><br>
+</td>
+</tr>
+</table>
+<div style="width: 100%; background-color: #0d1117; height: 6px; margin: 15px 0; overflow: hidden; border: 1px solid #30363d;">
+<div style="width: 65%; background-color: #2CEEF0; height: 100%; box-shadow: 0 0 10px #2CEEF0;"></div>
+</div>
+<table align="center" style="border: none; width: 100%;">
+<tr>
+<td align="left" style="color: #2CEEF0; font-family: monospace; font-size: 12px;">1:35 / 3:10</td>
+<td align="right">
+<a href="http://googleusercontent.com/spotify.com/3" target="_blank"><img src="https://img.shields.io/badge/Spotify-Play-1DB954?style=flat-square&logo=spotify&logoColor=white" alt="Spotify"></a>
+<a href="https://www.youtube.com/watch?v=6pbu0g_BdwU" target="_blank"><img src="https://img.shields.io/badge/YouTube-Watch-red?style=flat-square&logo=youtube&logoColor=white" alt="YouTube"></a>
+</td>
+</tr>
+</table>
+</div>
 </div>
 
 <br>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Rainyday404&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117" height="150" alt="stats graph" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rainyday404&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117" height="150" alt="languages graph" />
+<h3 style="color: #2CEEF0; font-family: monospace;">// ARSENAL</h3>
+<img src="https://skillicons.dev/icons?i=js,ts,py,nodejs,express,mysql,git,vscode&theme=dark" alt="Skills" />
 </div>
 
 <br>
 
 <div align="center">
-  <p style="color: #2CEEF0; letter-spacing: 5px; font-size: 12px; font-weight: bold;">MEMENTO MORI</p>
-  <img src="https://github.com/Rainyday404/Rainyday404/blob/main/makoto%20yuki.gif?raw=true" width="100%" style="border-radius: 10px; border: 1px solid #30363d;" alt="Makoto Yuki Footer">
-  <br>
-  <sub><i>Last updated: 2025</i></sub>
+<img src="https://github-readme-stats.vercel.app/api?username=Rainyday404&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&count_private=true" height="150" alt="stats graph" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rainyday404&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117" height="150" alt="languages graph" />
+</div>
+
+<br>
+
+<div align="center">
+<p style="font-family: serif; font-style: italic; letter-spacing: 4px; color: #2CEEF0; font-weight: bold;">MEMENTO MORI</p>
+<img src="https://github.com/Rainyday404/Rainyday404/blob/main/makoto%20yuki.gif?raw=true" width="100%" style="border-radius: 10px; border: 1px solid #2CEEF0; opacity: 0.9;">
+<br><br>
+<img src="https://komarev.com/ghpvc/?username=Rainyday404&label=PROFILE+VIEWS&color=001433&style=flat-square" alt="Visitor Count">
 </div>
