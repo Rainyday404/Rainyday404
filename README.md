@@ -11,7 +11,9 @@
 <td align="center" style="padding-right: 20px;">
 <img src="https://github.com/Rainyday404.png" width="140" height="140" style="border-radius: 50%; border: 3px solid #2CEEF0; box-shadow: 0 0 25px rgba(44, 238, 240, 0.4);" alt="Rain Avatar">
 <br><br>
-<a href="https://discord.gg/r2GqUQ6SzB"><img src="https://img.shields.io/badge/Discord-ZHIENALLY-001433?style=flat-square&logo=discord&logoColor=2CEEF0" alt="Discord"></a>
+<a href="https://discord.gg/jnYpjWmjdz"><img src="https://img.shields.io/badge/Discord-Lunaris%20Veil-001433?style=flat-square&logo=discord&logoColor=2CEEF0" alt="Lunaris Veil"></a>
+<br>
+<img src="https://img.shields.io/badge/Community-ZHIENALLY-001433?style=flat-square&logo=codepen&logoColor=2CEEF0" alt="ZHIENALLY">
 <br>
 <a href="https://www.youtube.com/@SilviaValleria?sub_confirmation=1"><img src="https://img.shields.io/badge/Oshi-Silvia%20Valleria-001433?style=flat-square&logo=heart&logoColor=D40E15" alt="Oshi"></a>
 </td>
@@ -127,8 +129,25 @@
 <br><br>
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Cinzel&weight=500&size=18&duration=4000&pause=1000&color=a2d2ff&center=true&vCenter=true&width=600&height=50&lines=Time+never+waits.+It+delivers+all+equally+to+the+same+end.;The+moment+man+devoured+the+fruit+of+knowledge,+he+sealed+his+fate.;Meaning+is+found+not+in+the+eternal,+but+in+the+moment.;I+will+burn+my+dread." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Cinzel&weight=500&size=18&duration=4000&pause=1000&color=a2d2ff&center=true&vCenter=true&width=600&height=50&lines=Time+never+waits.+It+delivers+all+equally+to+the+same+end.;Meaning+is+found+not+in+the+eternal,+but+in+the+moment.;I+will+burn+my+dread.;Memories+are+the+only+things+that+remain+real." alt="Typing SVG" />
 </a>
+
+<br><br>
+
+<h3 style="color: #2CEEF0; font-family: monospace; letter-spacing: 2px;">// VISUAL LOGS</h3>
+<table style="border: none; background: transparent;">
+  <tr>
+    <td style="padding: 10px;">
+      <img src="https://media.tenor.com/uJ__b4LzJwoAAAAC/persona-3-reload-aigis.gif" width="200" style="border-radius: 8px; border: 2px solid #2CEEF0;">
+    </td>
+    <td style="padding: 10px;">
+      <img src="https://media.tenor.com/tHj44X9q_iUAAAAC/persona-3-reload-elizabeth.gif" width="200" style="border-radius: 8px; border: 2px solid #2CEEF0;">
+    </td>
+    <td style="padding: 10px;">
+      <img src="https://media.tenor.com/F3b1n9-5i24AAAAC/persona-3-koromaru.gif" width="200" style="border-radius: 8px; border: 2px solid #2CEEF0;">
+    </td>
+  </tr>
+</table>
 
 <br>
 <img src="https://komarev.com/ghpvc/?username=Rainyday404&label=PROFILE+VIEWS&color=001433&style=flat-square" alt="Visitor Count">
