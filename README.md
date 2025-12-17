@@ -94,8 +94,8 @@
 <tr>
 <td align="left" style="color: #2CEEF0; font-family: monospace; font-size: 16px;">1:35 / 3:10</td>
 <td align="right">
-<a href="https://open.spotify.com/" target="_blank"><img src="https://img.shields.io/badge/Spotify-Play-1DB954?style=for-the-badge&logo=spotify&logoColor=white&height=30" alt="Spotify"></a>
-&nbsp;
+<a href="https://open.spotify.com/track/3znIACSXPLn3HFCf7moZ28" target="_blank"><img src="https://img.shields.io/badge/Spotify-Play-1DB954?style=for-the-badge&logo=spotify&logoColor=white&height=30" alt="Spotify"></a>
+ 
 <a href="https://www.youtube.com/watch?v=2KuWjZD6PBA&list=RD2KuWjZD6PBA&start_radio=1" target="_blank"><img src="https://img.shields.io/badge/YouTube-Watch-red?style=for-the-badge&logo=youtube&logoColor=white&height=30" alt="YouTube"></a>
 </td>
 </tr>
