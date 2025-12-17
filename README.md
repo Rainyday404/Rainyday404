@@ -16,12 +16,13 @@
 <a href="https://www.youtube.com/@SilviaValleria?sub_confirmation=1"><img src="https://img.shields.io/badge/Oshi-Silvia%20Valleria-001433?style=flat-square&logo=heart&logoColor=D40E15" alt="Oshi"></a>
 </td>
 <td width="450">
-<div style="display: flex; align-items: center; background-color: #060e1a; padding: 10px; border: 1px solid #30363d; border-radius: 10px;">
+<div style="display: flex; align-items: center; background-color: #060e1a; padding: 15px; border: 1px solid #30363d; border-radius: 10px;">
 <img src="https://github.com/Rainyday404/Rainyday404/blob/main/marie.gif?raw=true" width="110" height="110" style="border-radius: 8px; border: 2px solid #2CEEF0; margin-right: 15px; object-fit: cover;">
-<div style="color: #a2d2ff; font-family: monospace; font-size: 13px; line-height: 1.4; text-align: left;">
-<b style="color: #2CEEF0; background-color: rgba(44, 238, 240, 0.1); padding: 2px 5px; border-radius: 4px;">Rain's Poem (feat. Marie):</b><br><br>
-"𝙸 𝚊𝚖 𝚊 𝚕𝚒𝚏𝚎𝚕𝚘𝚗𝚐 𝚑𝚘𝚙𝚎𝚕𝚎𝚜𝚜 𝚛𝚘𝚖𝚊𝚗𝚝𝚒𝚌 𝚠𝚑𝚘 𝚗𝚘𝚠 𝚜𝚎𝚎𝚜 '𝙻𝚘𝚟𝚎' 𝚊𝚜 𝚙𝚞𝚛𝚎 𝚏𝚘𝚘𝚕𝚒𝚜𝚑𝚗𝚎𝚜𝚜.<br>
-<i>𝙸 𝚑𝚊𝚟𝚎 𝚗𝚘 𝚑𝚘𝚙𝚎 𝚘𝚏 𝚌𝚑𝚊𝚗𝚐𝚒𝚗𝚐 𝚝𝚑𝚒𝚜.</i>"
+<div style="color: #a2d2ff; font-family: monospace; font-size: 13px; line-height: 1.5; text-align: left;">
+<b style="color: #2CEEF0; background-color: rgba(44, 238, 240, 0.1); padding: 2px 8px; border-radius: 4px;">Rain's Poem (feat. Marie):</b><br><br>
+"𝐓𝐡𝐞 𝐅𝐨𝐠 𝐡𝐚𝐬 𝐥𝐢𝐟𝐭𝐞𝐝.<br>
+𝐀𝐧𝐝 𝐈 𝐟𝐢𝐧𝐚𝐥𝐥𝐲 𝐬𝐚𝐰 𝐭𝐡𝐞 𝐭𝐫𝐮𝐭𝐡.<br>
+<i>𝐈𝐭 𝐰𝐚𝐬 𝐲𝐨𝐮. 𝐈𝐭 𝐰𝐚𝐬 𝐚𝐥𝐰𝐚𝐲𝐬 𝐲𝐨𝐮. 𝐒𝐭𝐮𝐩𝐢𝐝.</i>"
 </div>
 </div>
 </td>
@@ -94,7 +95,7 @@
 <tr>
 <td align="left" style="color: #2CEEF0; font-family: monospace; font-size: 16px;">1:35 / 3:10</td>
 <td align="right">
-<a href="https://open.spotify.com/track/3znIACSXPLn3HFCf7moZ28" target="_blank"><img src="https://img.shields.io/badge/Spotify-Play-1DB954?style=for-the-badge&logo=spotify&logoColor=white&height=30" alt="Spotify"></a>
+<a href="https://open.spotify.com/search/It's%20Going%20Down%20Now" target="_blank"><img src="https://img.shields.io/badge/Spotify-Play-1DB954?style=for-the-badge&logo=spotify&logoColor=white&height=30" alt="Spotify"></a>
  
 <a href="https://www.youtube.com/watch?v=2KuWjZD6PBA&list=RD2KuWjZD6PBA&start_radio=1" target="_blank"><img src="https://img.shields.io/badge/YouTube-Watch-red?style=for-the-badge&logo=youtube&logoColor=white&height=30" alt="YouTube"></a>
 </td>
