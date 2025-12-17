@@ -71,29 +71,32 @@
 <br>
 
 <div align="center">
-<h3 style="color: #2CEEF0; font-family: monospace; letter-spacing: 2px;">🎧 S.E.E.S. RADIO</h3>
-<div style="background-color: #060e1a; padding: 15px; border: 2px solid #2CEEF0; border-radius: 4px; box-shadow: 5px 5px 0px #001433; max-width: 480px; margin: auto;">
+<h3 style="color: #2CEEF0; font-family: monospace; letter-spacing: 2px; font-size: 20px;">🎧 S.E.E.S. RADIO</h3>
+<div style="background-color: #060e1a; padding: 25px; border: 3px solid #2CEEF0; border-radius: 10px; box-shadow: 8px 8px 0px #001433; max-width: 750px; margin: auto;">
 <table align="center" style="border: none; background: transparent; width: 100%;">
 <tr>
-<td width="90">
-<img src="https://github.com/Rainyday404/Rainyday404/blob/main/cover.jpg?raw=true" width="80" height="80" style="border-radius: 0px; border: 2px solid #2CEEF0; object-fit: cover;">
+<td width="160">
+<img src="https://github.com/Rainyday404/Rainyday404/blob/main/it's-going-down-now.jpg?raw=true" width="150" height="150" style="border-radius: 4px; border: 2px solid #2CEEF0; object-fit: cover;">
 </td>
-<td style="font-family: monospace; color: #a2d2ff; padding-left: 15px; vertical-align: middle;">
-<b style="color: #2CEEF0; font-size: 12px; letter-spacing: 1px;">▶ NOW PLAYING</b><br>
-<span style="color: #fff; font-size: 17px; font-weight: bold;">𝙸𝚝'𝚜 𝙶𝚘𝚒𝚗𝚐 𝙳𝚘𝚠𝚗 𝙽𝚘𝚠</span><br>
-<span style="color: #8b949e; font-size: 11px;">Pᴇʀsᴏɴᴀ 3 Rᴇʟᴏᴀᴅ OST</span><br>
+<td style="font-family: monospace; color: #a2d2ff; padding-left: 25px; vertical-align: middle;">
+<b style="color: #2CEEF0; font-size: 16px; letter-spacing: 2px;">▶ NOW PLAYING</b><br><br>
+<span style="color: #fff; font-size: 28px; font-weight: bold; text-shadow: 0 0 10px rgba(44, 238, 240, 0.5);">𝙸𝚝'𝚜 𝙶𝚘𝚒𝚗𝚐 𝙳𝚘𝚠𝚗 𝙽𝚘𝚠</span><br><br>
+<span style="color: #8b949e; font-size: 16px;">Pᴇʀsᴏɴᴀ 3 Rᴇʟᴏᴀᴅ OST</span>
 </td>
 </tr>
 </table>
-<div style="width: 100%; background-color: #0d1117; height: 6px; margin: 15px 0; overflow: hidden; border: 1px solid #30363d;">
-<div style="width: 65%; background-color: #2CEEF0; height: 100%; box-shadow: 0 0 10px #2CEEF0;"></div>
+
+<div style="width: 100%; background-color: #0d1117; height: 12px; margin: 25px 0; overflow: hidden; border: 1px solid #30363d; border-radius: 6px;">
+<div style="width: 65%; background-color: #2CEEF0; height: 100%; box-shadow: 0 0 15px #2CEEF0;"></div>
 </div>
+
 <table align="center" style="border: none; width: 100%;">
 <tr>
-<td align="left" style="color: #2CEEF0; font-family: monospace; font-size: 12px;">1:35 / 3:10</td>
+<td align="left" style="color: #2CEEF0; font-family: monospace; font-size: 16px;">1:35 / 3:10</td>
 <td align="right">
-<a href="http://googleusercontent.com/spotify.com/3" target="_blank"><img src="https://img.shields.io/badge/Spotify-Play-1DB954?style=flat-square&logo=spotify&logoColor=white" alt="Spotify"></a>
-<a href="https://www.youtube.com/watch?v=6pbu0g_BdwU" target="_blank"><img src="https://img.shields.io/badge/YouTube-Watch-red?style=flat-square&logo=youtube&logoColor=white" alt="YouTube"></a>
+<a href="https://open.spotify.com/" target="_blank"><img src="https://img.shields.io/badge/Spotify-Play-1DB954?style=for-the-badge&logo=spotify&logoColor=white&height=30" alt="Spotify"></a>
+&nbsp;
+<a href="https://www.youtube.com/watch?v=2KuWjZD6PBA&list=RD2KuWjZD6PBA&start_radio=1" target="_blank"><img src="https://img.shields.io/badge/YouTube-Watch-red?style=for-the-badge&logo=youtube&logoColor=white&height=30" alt="YouTube"></a>
 </td>
 </tr>
 </table>
