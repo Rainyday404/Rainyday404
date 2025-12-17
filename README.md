@@ -163,14 +163,14 @@
 <img src="https://github.com/Rainyday404/Rainyday404/blob/main/lunaris-veil-logo.png?raw=true" width="120" style="border-radius: 8px; border: 2px solid #2CEEF0; box-shadow: 0 0 15px rgba(44, 238, 240, 0.3);">
 </td>
 <td style="padding: 20px 30px; color: #a2d2ff; font-family: sans-serif; font-size: 13px; line-height: 1.8;">
-"Selamat datang di <b>Lunaris Veil</b>. Sebuah <i>Safe House</i> digital di tengah chaos-nya dunia maya. Tempat di mana kita bisa melepas penat realita dan kembali menjadi diri sendiri."
+"Selamat datang di <b>Lunaris Veil</b>. Sebuah <b>Server</b> di tengah chaos-nya dunia maya. Tempat di mana kita bisa melepas penat realita dan kembali menjadi diri sendiri."
 <br><br>
 <div style="font-family: monospace; color: #e6edf3;">
-<b style="color: #2CEEF0; background: #001433; padding: 2px 6px; border-radius: 3px;">>></b> <b>MULTIPLAYER ACCESS:</b> Temukan rekan satu party untuk segala genre game. Kompetitif atau santai? Gas.
+<b style="color: #2CEEF0; background: #001433; padding: 2px 6px; border-radius: 3px;">>></b> <b>MULTIPLAYER ACCESS:</b> Temukan rekan satu party untuk segala genre. Kompetitif, santai, atau grinding RPG? Gas.
 <br><br>
-<b style="color: #2CEEF0; background: #001433; padding: 2px 6px; border-radius: 3px;">>></b> <b>VOICE LOUNGE:</b> Ruang gema untuk diskusi tanpa henti, sesi karaoke malam, atau sekadar <i>deafen</i> menemani produktivitas.
+<b style="color: #2CEEF0; background: #001433; padding: 2px 6px; border-radius: 3px;">>></b> <b>VOICE LOUNGE:</b> Frekuensi tanpa henti. Diskusi game, karaoke malam, atau sekadar <i>deafen</i> menemani tugas & coding.
 <br><br>
-<b style="color: #2CEEF0; background: #001433; padding: 2px 6px; border-radius: 3px;">>></b> <b>ZERO TOXICITY:</b> Lingkungan yang dijaga ketat. Drama dilarang masuk. Hanya vibes positif dan saling support.
+<b style="color: #2CEEF0; background: #001433; padding: 2px 6px; border-radius: 3px;">>></b> <b>ZERO TOXICITY:</b> Protokol keamanan komunitas aktif. Drama dilarang masuk. Hanya vibes positif dan saling support.
 </div>
 </td>
 </tr>
