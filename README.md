@@ -161,6 +161,10 @@
 <tr>
 <td width="160" align="center" style="padding: 20px; border-right: 1px dashed #30363d; background-color: #060e1a;">
 <img src="https://github.com/Rainyday404/Rainyday404/blob/main/lunaris-veil-logo.png?raw=true" width="120" style="border-radius: 8px; border: 2px solid #2CEEF0; box-shadow: 0 0 15px rgba(44, 238, 240, 0.3);">
+<br>
+<div style="margin-top: 10px; font-family: monospace; font-size: 11px; color: #8b949e; letter-spacing: 0.5px;">
+  [ Credit by <b style="color: #2CEEF0;">olip</b> ]
+</div>
 </td>
 <td style="padding: 20px 30px; color: #a2d2ff; font-family: sans-serif; font-size: 13px; line-height: 1.8;">
 "Selamat datang di <b>Lunaris Veil</b>. Sebuah <b>Server</b> di tengah chaos-nya dunia maya. Tempat di mana kita bisa melepas penat realita dan kembali menjadi diri sendiri."
