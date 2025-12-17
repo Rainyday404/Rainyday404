@@ -123,6 +123,13 @@
 <div align="center">
 <p style="font-family: serif; font-style: italic; letter-spacing: 4px; color: #2CEEF0; font-weight: bold;">MEMENTO MORI</p>
 <img src="https://github.com/Rainyday404/Rainyday404/blob/main/makoto%20yuki.gif?raw=true" width="100%" style="border-radius: 10px; border: 1px solid #2CEEF0; opacity: 0.9;">
+
 <br><br>
+
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Cinzel&weight=500&size=18&duration=4000&pause=1000&color=a2d2ff&center=true&vCenter=true&width=600&height=50&lines=Time+never+waits.+It+delivers+all+equally+to+the+same+end.;The+moment+man+devoured+the+fruit+of+knowledge,+he+sealed+his+fate.;Meaning+is+found+not+in+the+eternal,+but+in+the+moment.;I+will+burn+my+dread." alt="Typing SVG" />
+</a>
+
+<br>
 <img src="https://komarev.com/ghpvc/?username=Rainyday404&label=PROFILE+VIEWS&color=001433&style=flat-square" alt="Visitor Count">
 </div>
