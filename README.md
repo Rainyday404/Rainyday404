@@ -62,7 +62,7 @@
 </table>
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Cinzel&weight=500&size=16&duration=4500&pause=1000&color=a2d2ff&center=true&vCenter=true&width=800&height=50&lines=Time+never+waits.+It+delivers+all+equally+to+the+same+end.+You+cannot+wish+for+it+to+be+otherwise.;The+moment+man+devoured+the+fruit+of+knowledge,+he+sealed+his+fate...;Meaning+is+found+not+in+the+eternal,+but+in+the+bonds+we+forge+within+the+moment.;I+will+burn+my+dread.+Facing+the+truth+is+the+only+way+to+find+the+answer+to+life's+greatest+question." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Cinzel&weight=500&size=16&duration=4500&pause=1000&color=a2d2ff&center=true&vCenter=true&width=1100&height=50&lines=Time+never+waits.+It+delivers+all+equally+to+the+same+end.+You+cannot+wish+for+it+to+be+otherwise.;The+moment+man+devoured+the+fruit+of+knowledge,+he+sealed+his+fate...;Meaning+is+found+not+in+the+eternal,+but+in+the+bonds+we+forge+within+the+moment.;I+will+burn+my+dread.+Facing+the+truth+is+the+only+way+to+find+the+answer+to+life's+greatest+question." alt="Typing SVG" />
 </a>
 
 <br>
@@ -132,7 +132,7 @@
 
 <div align="center">
 <h3 style="color: #2CEEF0; font-family: monospace;">// ARSENAL</h3>
-<img src="https://skillicons.dev/icons?i=js,ts,py,nodejs,express,mysql,git,vscode&theme=dark" alt="Skills" />
+<img src="https://skillicons.dev/icons?i=kotlin,androidstudio,js,ts,nodejs,express,mysql,git,vscode&theme=dark" alt="Skills" />
 </div>
 
 <br>
