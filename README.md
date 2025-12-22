@@ -50,7 +50,7 @@ Specialty: Code Warfare
 <td width="160" align="center">
 <img src="https://github.com/Rainyday404/Rainyday404/blob/main/Tanya.gif?raw=true" width="150" height="150" style="border-radius: 8px; border: 3px solid #D4AF37;">
 </td>
-<td align="left" style="padding: 20px;">
+<td align="left" style="padding: 20px; background-image: url('https://github.com/Rainyday404/Rainyday404/blob/main/TACTICAL-BRIEFING.jpg?raw=true'); background-size: cover; background-position: center; background-repeat: no-repeat;">
 
 ```diff
 + CLASSIFIED INTEL: OPERATION WHITE SILVER
@@ -125,7 +125,7 @@ Not the reckless."
       <sub>Feared Across All Fronts | Type 95 Wielder</sub>
     </td>
     <td align="center" width="280">
-      <img src="https://github.com/Rainyday404/Rainyday404/blob/main/tanya.jpg?raw=true" width="260" height="160" style="border-radius: 8px; border: 3px solid #FFD700;">
+      <img src="https://github.com/Rainyday404/Rainyday404/blob/main/Tanya-gif.gif?raw=true" width="260" height="160" style="border-radius: 8px; border: 3px solid #FFD700;">
       <br><br>
       <img src="https://img.shields.io/badge/⚡_IMPERIAL_ACE_MAGE-FFD700?style=for-the-badge&logoColor=1a1a1a&labelColor=1a1a1a">
       <br>
@@ -149,6 +149,7 @@ Not the reckless."
 <td>
 
 ```yaml
+"戦争と生存の哲学 - 諜報報告書"
 "Philosophy of War & Survival - Compiled Intelligence Reports"
 ```
 
@@ -157,51 +158,51 @@ Not the reckless."
 <tr>
 <td align="left" style="padding: 20px;">
 
-### 📜 ON WARFARE & VICTORY
+### 📜 戦争と勝利について (ON WARFARE & VICTORY)
 
-> *"If you're going to die anyway, you might as well die standing."*
+> *"どうせ死ぬなら、立ったまま死にたいものだ"*
 > 
-> *"War does not determine who is right, only who is left."*
+> *"戦争は誰が正しいかを決めない。誰が残るかを決めるだけだ"*
 > 
-> *"Victory is not achieved through courage alone. It requires cold calculation and strategic superiority."*
+> *"勝利は勇気だけでは達成されない。冷徹な計算と戦略的優位性が必要だ"*
 > 
-> *"The enemy's greatest weakness is their inability to see the bigger picture."*
+> *"敵の最大の弱点は、全体像を見る能力がないことだ"*
 
-### 🎯 ON RATIONALITY & LOGIC
+### 🎯 合理性と論理について (ON RATIONALITY & LOGIC)
 
-> *"All men are not created equal. Some are born swifter afoot, some with greater beauty. Some are born into poverty, and others born sick and feeble. Both in birth and upbringing, in sheer scope of ability, every human is inherently different."*
+> *"すべての人間は平等に作られていない。足の速い者もいれば、美しく生まれた者もいる。貧困に生まれた者もいれば、病弱に生まれた者もいる。生まれにおいても育ちにおいても、能力の範囲においても、すべての人間は本質的に異なる"*
 > 
-> *"Logic is the foundation of survival. Emotion is a luxury of the victorious."*
+> *"論理は生存の基盤である。感情は勝者の贅沢品だ"*
 > 
-> *"Those who can't keep up will be discarded. That is the natural order."*
+> *"ついてこられない者は切り捨てられる。それが自然の摂理だ"*
 > 
-> *"In the end, the only one you can rely on is yourself."*
+> *"最終的に、頼れるのは自分だけだ"*
 
-### ⚡ ON FAITH & DEFIANCE
+### ⚡ 信仰と反抗について (ON FAITH & DEFIANCE)
 
-> *"God? I will defy him with all my might! I refuse to acknowledge your existence!"*
+> *"神だと？私は全力で反抗する！あなたの存在を認めることを拒否する！"*
 > 
-> *"Being X can manipulate fate all he wants. I will prove that human will is stronger than divine intervention."*
+> *"存在Xが運命をどれだけ操ろうとも、人間の意志は神の介入よりも強いことを証明してみせる"*
 > 
-> *"Prayer is for the weak. I will carve my own path with steel and strategy."*
+> *"祈りは弱者のためのものだ。私は鋼と戦略で自分の道を切り開く"*
 
-### 💎 ON DUTY & RESPONSIBILITY
+### 💎 義務と責任について (ON DUTY & RESPONSIBILITY)
 
-> *"The only thing necessary for the triumph of evil is for good men to do nothing."*
+> *"悪が勝利するために必要なのは、善良な人々が何もしないことだけだ"*
 > 
-> *"A soldier who doesn't follow orders is worse than useless."*
+> *"命令に従わない兵士は、役に立たない以上に悪だ"*
 > 
-> *"Efficiency is everything. Waste not a single resource, not a single moment."*
+> *"効率がすべてだ。資源も、一瞬の時間も無駄にするな"*
 > 
-> *"I don't fight for glory. I fight to survive in this cruel world."*
+> *"私は栄光のために戦うのではない。この残酷な世界で生き残るために戦う"*
 
-### 🔥 ON POWER & AMBITION
+### 🔥 力と野望について (ON POWER & AMBITION)
 
-> *"Power without control is meaningless. Strategy without execution is fantasy."*
+> *"制御のない力は無意味だ。実行のない戦略は幻想だ"*
 > 
-> *"I will rise through the ranks not by luck, but by calculated superiority."*
+> *"私は運ではなく、計算された優位性によって階級を上がる"*
 > 
-> *"The strong survive. The weak perish. That is the immutable law of nature."*
+> *"強者は生き残る。弱者は滅びる。それが自然の不変の法則だ"*
 
 </td>
 </tr>
@@ -278,16 +279,17 @@ Not the reckless."
 </tr>
 <tr>
 <td width="200" align="center">
-<img src="https://github.com/Rainyday404/Rainyday404/blob/main/it's-going-down-now.jpg?raw=true" width="180" height="180" style="border-radius: 8px; border: 3px solid #D4AF37;">
+<img src="https://i.ytimg.com/vi/_werYjm5BmY/maxresdefault.jpg" width="180" height="180" style="border-radius: 8px; border: 3px solid #D4AF37;">
 </td>
 <td style="padding: 20px;">
 
 ### 🎵 NOW PLAYING
 
 ```css
-Title    : 𝐈𝐭'𝐬 𝐆𝐨𝐢𝐧𝐠 𝐃𝐨𝐰𝐧 𝐍𝐨𝐰
-Artist   : Pᴇʀsᴏɴᴀ 3 Rᴇʟᴏᴀᴅ OST
-Duration : 3:10
+Title    : 𝐋𝐨𝐬! 𝐋𝐨𝐬! 𝐋𝐨𝐬!
+Artist   : Yᴏᴜᴊᴏ Sᴇɴᴋɪ ED
+Album    : Saga of Tanya the Evil
+Duration : 3:47
 Status   : ▶ Playing
 ```
 
@@ -302,11 +304,11 @@ Status   : ▶ Playing
 <table width="100%">
 <tr>
 <td align="left">
-<img src="https://img.shields.io/badge/⏱️_1:35_/_3:10-D4AF37?style=flat-square&labelColor=1a1a1a">
+<img src="https://img.shields.io/badge/⏱️_2:27_/_3:47-D4AF37?style=flat-square&labelColor=1a1a1a">
 </td>
 <td align="right">
-<a href="https://open.spotify.com/search/It's%20Going%20Down%20Now"><img src="https://img.shields.io/badge/Spotify-Listen-1DB954?style=for-the-badge&logo=spotify&logoColor=white" alt="Spotify"></a>
-<a href="https://www.youtube.com/watch?v=2KuWjZD6PBA"><img src="https://img.shields.io/badge/YouTube-Watch-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"></a>
+<a href="https://open.spotify.com/search/Los%20Los%20Los%20Youjo%20Senki"><img src="https://img.shields.io/badge/Spotify-Listen-1DB954?style=for-the-badge&logo=spotify&logoColor=white" alt="Spotify"></a>
+<a href="https://www.youtube.com/watch?v=_werYjm5BmY&list=RD_werYjm5BmY&start_radio=1"><img src="https://img.shields.io/badge/YouTube-Watch-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"></a>
 </td>
 </tr>
 </table>
@@ -343,7 +345,7 @@ Status   : ▶ Playing
 ### 🔥 CONTRIBUTION FIREPOWER
 
 <p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Rainyday404&theme=gruvbox&hide_border=true&background=0d0d0d&ring=D4AF37&fire=D4AF37&currStreakLabel=D4AF37" alt="GitHub Streak" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Rainyday404&theme=tokyo-night&hide_border=true&bg_color=0d0d0d&color=D4AF37&line=D4AF37&point=FFD700&area=true&area_color=D4AF37" alt="Contribution Graph" />
 </p>
 
 <br>
@@ -361,7 +363,7 @@ Status   : ▶ Playing
 <br>
 
 <p align="center">
-<img src="https://github.com/Rainyday404/Rainyday404/blob/main/makoto%20yuki.gif?raw=true" width="750" style="border-radius: 10px; border: 3px solid #D4AF37;">
+<img src="https://github.com/Rainyday404/Rainyday404/blob/main/tanya-smilling.gif?raw=true" width="750" style="border-radius: 10px; border: 3px solid #D4AF37;">
 </p>
 
 <br>
