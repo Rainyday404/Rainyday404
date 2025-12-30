@@ -273,45 +273,39 @@ Not the reckless."
 
 <table align="center" width="85%">
 <tr>
-<td colspan="2" align="center">
-<img src="https://img.shields.io/badge/📡_BROADCASTING_LIVE-D4AF37?style=for-the-badge&logoColor=white&labelColor=1a1a1a">
+<td colspan="2" align="center" style="padding: 10px;">
+<img src="https://img.shields.io/badge/🔴_LIVE-D4AF37?style=flat-square&labelColor=1a1a1a">
+<img src="https://img.shields.io/badge/📡_ON_AIR-00FF00?style=flat-square&labelColor=1a1a1a">
+<img src="https://img.shields.io/badge/🎧_∞_LISTENERS-FFD700?style=flat-square&labelColor=1a1a1a">
 </td>
 </tr>
 <tr>
 <td width="200" align="center">
 <img src="https://i.ytimg.com/vi/_werYjm5BmY/maxresdefault.jpg" width="180" height="180" style="border-radius: 8px; border: 3px solid #D4AF37;">
+<br><br>
+<img src="https://img.shields.io/badge/IMPERIAL_ANTHEM-D4AF37?style=for-the-badge&labelColor=1a1a1a">
 </td>
 <td style="padding: 20px;">
 
-### 🎵 NOW PLAYING
+**🎵 NOW PLAYING**
 
-```css
-Title    : 𝐋𝐨𝐬! 𝐋𝐨𝐬! 𝐋𝐨𝐬!
-Artist   : Yᴏᴜᴊᴏ Sᴇɴᴋɪ ED
-Album    : Saga of Tanya the Evil
+```
+Title    : Los! Los! Los!
+Artist   : Youjo Senki ED
+Album    : Saga of Tanya the Evil OST
 Duration : 3:47
 Status   : ▶ Playing
 ```
 
-<br>
+**⏯️ PLAYBACK**
 
 ```
-████████████████████░░░░░░░░░░ 65%
+████████████████████░░░░░░░ 65% [2:27/3:47]
 ```
 
-<br>
+**🎼 PLATFORMS**
 
-<table width="100%">
-<tr>
-<td align="left">
-<img src="https://img.shields.io/badge/⏱️_2:27_/_3:47-D4AF37?style=flat-square&labelColor=1a1a1a">
-</td>
-<td align="right">
-<a href="https://open.spotify.com/search/Los%20Los%20Los%20Youjo%20Senki"><img src="https://img.shields.io/badge/Spotify-Listen-1DB954?style=for-the-badge&logo=spotify&logoColor=white" alt="Spotify"></a>
-<a href="https://www.youtube.com/watch?v=_werYjm5BmY&list=RD_werYjm5BmY&start_radio=1"><img src="https://img.shields.io/badge/YouTube-Watch-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"></a>
-</td>
-</tr>
-</table>
+<a href="https://open.spotify.com/search/Los%20Los%20Los%20Youjo%20Senki"><img src="https://img.shields.io/badge/Spotify-1DB954?style=for-the-badge&logo=spotify&logoColor=white" alt="Spotify"></a> <a href="https://www.youtube.com/watch?v=_werYjm5BmY"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"></a>
 
 </td>
 </tr>
@@ -336,16 +330,43 @@ Status   : ▶ Playing
 ### 📊 COMBAT STATISTICS
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=Rainyday404&show_icons=true&theme=gruvbox&hide_border=true&bg_color=0d0d0d&title_color=D4AF37&icon_color=D4AF37&text_color=b8b8b8&count_private=true&include_all_commits=true" height="170" alt="GitHub Stats" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rainyday404&layout=compact&theme=gruvbox&hide_border=true&bg_color=0d0d0d&title_color=D4AF37&text_color=b8b8b8&langs_count=8" height="170" alt="Top Languages" />
+<a href="https://github.com/Rainyday404">
+<img src="https://github-readme-stats-salesp07.vercel.app/api?username=Rainyday404&show_icons=true&hide_border=true&bg_color=0d0d0d&title_color=D4AF37&icon_color=FFD700&text_color=b8b8b8&count_private=true&include_all_commits=true&rank_icon=github" height="180" alt="GitHub Stats" />
+</a>
+<a href="https://github.com/Rainyday404">
+<img src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=Rainyday404&layout=compact&hide_border=true&bg_color=0d0d0d&title_color=D4AF37&text_color=b8b8b8&langs_count=8&hide=html,css,jupyter%20notebook" height="180" alt="Top Languages" />
+</a>
 </p>
 
 <br>
 
-### 🔥 CONTRIBUTION FIREPOWER
+### 📈 OPERATIONAL METRICS
+
+<table align="center" width="80%">
+<tr>
+<td align="center" width="33%">
+<img src="https://img.shields.io/github/followers/Rainyday404?label=Allied%20Forces&style=for-the-badge&logo=github&color=D4AF37&labelColor=0d0d0d" alt="Followers">
+<br><br>
+<sub><b>👥 ALLIED FORCES</b></sub>
+</td>
+<td align="center" width="33%">
+<img src="https://img.shields.io/github/stars/Rainyday404?label=Commendations&style=for-the-badge&logo=github&color=FFD700&labelColor=0d0d0d" alt="Stars">
+<br><br>
+<sub><b>⭐ COMMENDATIONS</b></sub>
+</td>
+<td align="center" width="33%">
+<img src="https://img.shields.io/badge/dynamic/json?label=Repositories&query=$.public_repos&url=https://api.github.com/users/Rainyday404&style=for-the-badge&logo=github&color=D4AF37&labelColor=0d0d0d" alt="Repos">
+<br><br>
+<sub><b>📦 OPERATIONS</b></sub>
+</td>
+</tr>
+</table>
+
+<br>
+### 🔥 CONTRIBUTION FIREPOWER ###
 
 <p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Rainyday404&theme=tokyo-night&hide_border=true&bg_color=0d0d0d&color=D4AF37&line=D4AF37&point=FFD700&area=true&area_color=D4AF37" alt="Contribution Graph" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Rainyday404&custom_title=⚔️%20Imperial%20Combat%20Activity%20⚔️&bg_color=0d0d0d&color=D4AF37&line=FFD700&point=D4AF37&area=true&hide_border=true&theme=github-compact" alt="Contribution Graph" width="95%" />
 </p>
 
 <br>
@@ -490,7 +511,7 @@ operations and return to their true selves."
 <br>
 
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=100&section=footer&text=MEMENTO%20MORI&fontSize=30&fontColor=D4AF37&animation=twinkling" width="100%">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=24&height=100&section=footer&text=🔥%20LOS!%20LOS!%20LOS!%20🔥&fontSize=35&fontColor=D4AF37&animation=twinkling&fontAlignY=65" width="100%">
 </p>
 
 </div>
