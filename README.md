@@ -363,7 +363,7 @@ Status   : ▶ Playing
 </table>
 
 <br>
-### 🔥 CONTRIBUTION FIREPOWER ###
+
 
 <p align="center">
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Rainyday404&custom_title=⚔️%20Imperial%20Combat%20Activity%20⚔️&bg_color=0d0d0d&color=D4AF37&line=FFD700&point=D4AF37&area=true&hide_border=true&theme=github-compact" alt="Contribution Graph" width="95%" />
