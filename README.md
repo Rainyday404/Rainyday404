@@ -601,9 +601,15 @@ LOG — 04:33 AM
 <br>
 
 <p align="center">
-<a href="https://git.io/typing-svg">
-<img src="https://readme-typing-svg.herokuapp.com?font=IM+Fell+English&weight=400&size=16&pause=3500&color=4a6b7c&center=true&vCenter=true&width=620&lines=眠れない夜に、ここに来てくれてありがとう。;Thank+you+for+stopping+by+on+a+sleepless+night.;Lagu+masih+memutar.+Malam+belum+selesai.;I+hope+the+night+is+a+little+less+lonely+now.;— besok+pasti." alt="Closing" />
-</a>
+<sub><i>眠れない夜に、ここに来てくれてありがとう。</i></sub>
+<br>
+<sub><i>Thank you for stopping by on a sleepless night.</i></sub>
+<br><br>
+<sub><i>Lagu masih memutar. Malam belum selesai.</i></sub>
+<br>
+<sub><i>I hope the night is a little less lonely now.</i></sub>
+<br><br>
+<sub><i>— besok pasti.</i></sub>
 </p>
 
 <br>
